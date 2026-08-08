@@ -84,6 +84,7 @@ Assignments_Completed
 
 ## 📂 Project Structure
 
+```text
 Student-Marks-Predication/
 │
 ├── data/
@@ -91,8 +92,6 @@ Student-Marks-Predication/
 │
 ├── models/
 │   └── student_marks_model.pkl
-│
-├── venv/
 │
 ├── .gitignore
 ├── app.py
