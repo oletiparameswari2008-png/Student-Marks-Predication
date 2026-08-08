@@ -85,7 +85,7 @@ Assignments_Completed
 ## 📂 Project Structure
 
 ```text
-Student-Marks-Predication/
+Student-Marks-Prediction/
 │
 ├── data/
 │   └── student_marks.csv
